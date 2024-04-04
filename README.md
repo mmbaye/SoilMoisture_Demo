@@ -18,6 +18,7 @@ The primary objective of this study is to highlight a method for estimating soil
 
 ## Soil Moisture Physics  
 
+![Soil Physics Principal](https://github.com/mmbaye/Bolivia-example/blob/main/figures/SoilMoisurePhysics.jpeg)
 
 
 ```javascript
