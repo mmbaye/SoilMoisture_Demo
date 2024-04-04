@@ -106,7 +106,7 @@ Map.centerObject(region,12)
 
 
 
-
+![Workflow soil moisture extraction](https://github.com/mmbaye/Bolivia-example/blob/main/figures/Workflow.jpeg)
 
 
 
